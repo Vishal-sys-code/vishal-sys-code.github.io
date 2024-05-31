@@ -3,7 +3,7 @@ title: "Mass Converted from the Energy of Motion"
 collection: publications
 permalink: /publication/mass-converted-from-energy-of-motion
 excerpt: ''
-date: 
+date: 2021-12-07
 venue: 'TechRxiv'
 slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'

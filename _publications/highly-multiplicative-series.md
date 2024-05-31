@@ -3,7 +3,7 @@ title: "Highly Multiplicative Series"
 collection: publications
 permalink: /publication/highly-multiplicative-series
 excerpt: ''
-date: 
+date: 2022-02-22
 venue: 'TechRxiv'
 slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'

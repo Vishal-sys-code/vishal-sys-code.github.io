@@ -3,7 +3,7 @@ title: "Wave Function Collapse Function Visualization"
 collection: publications
 permalink: /publication/wave-collapse-function-visualization
 excerpt: ''
-date: 
+date: 2022-07-08
 venue: 'VixRa'
 slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
