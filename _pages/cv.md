@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Tech in Information Technology, STCET, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2022: Machine Learning Researcher Intern
+  * NIT Mizoram, Aizawl
+  * Duties includes: Conducted groundbreaking interdisciplinary research, resulting in 4 prestigious preprints on TechRxiv and Academia. Pioneered a comprehensive Diabetes-type prediction model with advanced ensemble machine learning techniques and Advanced Signature Verification methods using 5 different neural networks while mentoring C-DAC Post-Graduate [PG-DAI] students in Machine Learning projects.
+  * Supervisor: Dr. Ranjita Das
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Software Engineer(SWE) Intern
+  * JP Morgan and Chase, Remote
+  * Duties included: Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: C/C++, Java, Python, HTML/CSS, JavaScript, SQL, Bash, LATEX
+* **Frameworks and Libraries**: React.js, NumPy, pandas, TensorFlow, Node.js, Bootstrap
+* **Languages**: Fluent in English, Hindi, Bengali; Learning Japanese
+* **Tools**: GitHub, VSCode, Rest APIs, Eclipse IDE, Vim, Linux
 
 Publications
 ======
@@ -47,18 +37,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
